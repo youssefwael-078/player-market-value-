@@ -1,0 +1,10 @@
+{
+  "Random Forest": {
+    "r2": 0.9554,
+    "mae_eur": 666583.47
+  },
+  "Neural Network": {
+    "r2": 0.9736,
+    "mae_eur": 385260.64
+  }
+}
